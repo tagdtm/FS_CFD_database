@@ -17,7 +17,7 @@ CFDの正当性を評価することは時間や資源の観点からも容易�
 あくまで比較用として使用していただけると幸いです。
 
 ## Google Drive
-GitHubを使いこなせない僕に、大量のファイルをUIを通してGitHubに張り付けていく作業は非常に骨が折れる作業でした。なので以下Google Driveにデータを公開することにします。
+GitHubを使いこなせない僕に、大量のファイルをUIを通してGitHubに張り付けていく作業は非常に骨が折れる作業でした。というか少し試してみて複雑骨折しかけました。なので以下Google Driveにデータを公開することにします。
 - CpTのスライスの写真、およびSurface Plotの生データ: 
 
 https://drive.google.com/drive/folders/1mf5Cxq2XfC3gGprzztVWZNoMcPCSArbq?usp=sharing
