@@ -31,6 +31,10 @@ https://drive.google.com/drive/folders/1yoeuZD6_OnBSm2FAL_QEOhWRNrElsWxB?usp=sha
 
 https://docs.google.com/presentation/d/1yfOy6vDAZ8dyjhNIJWsjwiJqCvI9ZmI0/edit?usp=sharing&ouid=114974693398715275822&rtpof=true&sd=true
 
+ダウンロード方法は以下の通り
+![image](https://github.com/tagdtm/FS_CFD_database/assets/96266042/9cf2cd26-b17c-49d0-bc45-4f0f12558f31)
+
+
 ## データベースの追加
 追加データのリクエスト、および協力していただける方は以下のアドレスまでご連絡お願いします。
 
