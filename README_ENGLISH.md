@@ -30,9 +30,8 @@ https://drive.google.com/drive/folders/1vYF1jgxsOkcHK8NPQzyqU2smVBAyfWsw?usp=sha
 - All codes for CpT contour converter, delta plot generator and Matlab graph generator:
 
 https://drive.google.com/drive/folders/1yoeuZD6_OnBSm2FAL_QEOhWRNrElsWxB?usp=sharing
-- Presentation：
+- Presentation(WIP)：
 
-https://docs.google.com/presentation/d/1yfOy6vDAZ8dyjhNIJWsjwiJqCvI9ZmI0/edit?usp=sharing&ouid=114974693398715275822&rtpof=true&sd=true
 
 You can download the presentation file as follows. I strongly recommend downloading the PowerPoint version rather than PDF as some GIF files are missing in PDF.
 ![image](https://github.com/tagdtm/FS_CFD_database/assets/96266042/9cf2cd26-b17c-49d0-bc45-4f0f12558f31)
