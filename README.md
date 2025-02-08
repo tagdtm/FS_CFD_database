@@ -4,7 +4,7 @@
 CFDの正当性を評価することは時間や資源の観点からも容易ではありません。
 設計のみでなく制作までを学生自らが行う学生フォーミュラのような競技においては尚のこと難しく、CFDの結果がどれぐらい正しいのかという評価をする機会はそう多くないのではないでしょうか。
 そこで今回、ストレート、10, 15m/s、車半分の条件において30万メッシュから7000万メッシュまでのシミュレーションを実施しました。
-最も確からしい計算結果はK-Omega SST(a1 = 1, Realizable coefficient=1.5, Coupled solver)で計算された結果で、70M-KOmegaにCpTのスライスとCp, CfのSurface plotをアップロードしてあります。
+最も確からしい計算結果はK-Omega SST(a1 = 1, Realizablity coefficient=1.5, Coupled solver)で計算された結果で、70M-KOmegaにCpTのスライスとCp, CfのSurface plotをアップロードしてあります。
 計算の詳細設定やデータの解析はAnalysisのフォルダの中にあるPDFを参照ください。
 **その他のデータは後述している通り、Google Driveに置いています。**
 
@@ -28,7 +28,7 @@ CFDの確かさの評価をするには風洞との結果比較が重要な上�
 08/02/2025 (dd/mm/yyyy)
 - Analysisフォルダーを作成、元のスライドに加え、計算条件の詳細を記載したスライドをアップロード
 
-- K-Omega SSTの結果をK-Omega SST (a1=1, Realizable coefficient = 1.5, coupled solver, 2500 itr)の結果に変更
+- K-Omega SSTの結果をK-Omega SST (a1=1, Realizability coefficient = 1.5, coupled solver, 2500 itr)の結果に変更
 - K-Epsilonの結果をK-Epsilon (coupled solver, 2500 itr)の結果に変更
 ![CzT_Cx](https://github.com/user-attachments/assets/c95ca8b5-c8eb-43dd-b4ab-760c03bbad90)
 
