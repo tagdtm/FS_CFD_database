@@ -30,6 +30,7 @@ CFDの確かさの評価をするには風洞との結果比較が重要な上�
 
 - K-Omega SSTの結果をK-Omega SST (a1=1, Realizable coefficient = 1.5, coupled solver, 2500 itr)の結果に変更
 - K-Epsilonの結果をK-Epsilon (coupled solver, 2500 itr)の結果に変更
+![CzT_Cx](https://github.com/user-attachments/assets/c95ca8b5-c8eb-43dd-b4ab-760c03bbad90)
 
 ## Google Drive
 GitHubを使いこなせない僕に、大量のファイルをUIを通してGitHubに張り付けていく作業は非常に骨が折れる作業でした。なので以下Google Driveにデータを公開することにします。
