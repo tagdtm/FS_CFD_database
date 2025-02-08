@@ -3,7 +3,10 @@
 このデータベースは学生フォーミュラの空力開発に勤しむ方々に少しでも役に立てばと思って制作したものです。
 CFDの正当性を評価することは時間や資源の観点からも容易ではありません。
 設計のみでなく制作までを学生自らが行う学生フォーミュラのような競技においては尚のこと難しく、CFDの結果がどれぐらい正しいのかという評価をする機会はそう多くないのではないでしょうか。
-そこで今回、ストレート、10, 15m/s、車半分の条件において30万メッシュから7000万メッシュまでのシミュレーションを実施しました。最も確からしい計算結果はK-Omega SST(a1 = 1, Realizable coefficient=1.5, Coupled solver)で計算された結果で、70M-KOmegaにCpTのスライスとCp, CfのSurface plotをアップロードしてあります。**その他のデータは後述している通り、Google Driveに置いています。**
+そこで今回、ストレート、10, 15m/s、車半分の条件において30万メッシュから7000万メッシュまでのシミュレーションを実施しました。
+最も確からしい計算結果はK-Omega SST(a1 = 1, Realizable coefficient=1.5, Coupled solver)で計算された結果で、70M-KOmegaにCpTのスライスとCp, CfのSurface plotをアップロードしてあります。
+計算の詳細設定やデータの解析はAnalysisのフォルダの中にあるPDFを参照ください。
+**その他のデータは後述している通り、Google Driveに置いています。**
 
 ## How to use this?
 想定している活用方法は以下の通りですが、好きにデータを扱っていただいて構いません。
@@ -23,7 +26,7 @@ CFDの確かさの評価をするには風洞との結果比較が重要な上�
 
 ## Update log
 08/02/2025 (dd/mm/yyyy)
-- Analysis/02 Detail settingを公開
+- Analysisフォルダーを作成、元のスライドに加え、計算条件の詳細を記載したスライドをアップロード
 
 - K-Omega SSTの結果をK-Omega SST (a1=1, Realizable coefficient = 1.5, coupled solver, 2500 itr)での結果に変更
 
@@ -38,17 +41,14 @@ https://drive.google.com/drive/folders/1vYF1jgxsOkcHK8NPQzyqU2smVBAyfWsw?usp=sha
 - Matlabコード、CpTコンター変換コード、デルタプロット生成コード:
 
 https://drive.google.com/drive/folders/1yoeuZD6_OnBSm2FAL_QEOhWRNrElsWxB?usp=sharing
-- プレゼンテーション：
-
-https://docs.google.com/presentation/d/1yfOy6vDAZ8dyjhNIJWsjwiJqCvI9ZmI0/edit?usp=sharing&ouid=114974693398715275822&rtpof=true&sd=true
 
 ダウンロード方法は以下の通り
 ![image](https://github.com/tagdtm/FS_CFD_database/assets/96266042/9cf2cd26-b17c-49d0-bc45-4f0f12558f31)
 
 ## Future Plan
-- 流れ場に応じて局所的にメッシュの解像度を変化
-- 渦粘性係数のモデルに用いられている係数の調整（流れ場の安定性向上目的）
-- Segregated vs Coupled solver
+- 渦粘性係数のモデルに用いられている係数の調整（流れ場の安定性向上目的）(WIP)
+- Segregated vs Coupled solver (WIP)
+- - 流れ場に応じて局所的にメッシュの解像度を変化
 - K-Omega SSTにTransition modelを用いた結果との比較
 - DESとの結果比較
 
