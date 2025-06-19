@@ -51,9 +51,12 @@ https://drive.google.com/drive/folders/1yoeuZD6_OnBSm2FAL_QEOhWRNrElsWxB?usp=sha
 ダウンロード方法は以下の通り
 ![image](https://github.com/tagdtm/FS_CFD_database/assets/96266042/9cf2cd26-b17c-49d0-bc45-4f0f12558f31)
 
-## Future Plan (Unlikely to be continued due to starting normal work)
+## Future Plan (Unlikely to be continued due to starting Full time job)
 - K-Omega SSTにTransition modelを用いた結果との比較
 - DESとの結果比較
+- 上記はできたらよかったんですが、学生のうちにできなくて申し訳ないです。
+- Transition modelは乱流遷移を予測できるようになりますが, 大きく性能への影響はないと思います
+- DESもSCLやSCDには大きな影響はないと思いますが, 後流のCpTのリカバリーの様子に関して性能が向上すると思います
 
 ## Request and contribution
 追加データのリクエスト、および協力していただける方は以下のアドレスまでご連絡お願いします。
